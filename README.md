@@ -57,6 +57,49 @@
 </div>
 
 -----
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
+<div align="justify">
+Sou o Arthur Moraes, estudei no SESI Alvimar Carneiro de Rezende, onde participei de um projeto de robótica na equipe chamada Harry blocks, também conclui um curso de jovem aprendiz no SENAI Alvimar Carneiro de Rezende de Manutenção de máquinas industriais, além disso estou no 2° semestre do curso de Engenharia de Software na PUC MINAS do Coração Eucarístico, no primeiro semestre ganhei o premio de melhor TI da turma 2026/1, o ESTAGI-ON.
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Curiosidades sobre mim:
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+- Sou cruzeirense , o MAIOR de minas.
+- Gosto de jogar futebol e sou goleiro, jogo amador de fut7.
+- Gosto bastante de natação também.
+- Nessa graduação a linguagem que eu mais me interessei foi o java.
+- Gosto muito de jogar BTD6
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+-----
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@a0d04abd-cfe7-4836-bb0e-b44ee9a1aebf">WakaTime</a></td>
