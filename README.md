@@ -1,34 +1,53 @@
------
 
-<div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
-</div>
 
 -----
 
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+
+
+<td>
+  <a href="https://github.com/arthurmbaam-stack">
+    <img src="https://cdn.simpleicons.org/github/EB0F0F" width="50" height="50"/>
+  </a>
 </td>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+
+<td>
+  <a href="mailto:arthurmba.am@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EB0F0F" width="50" height="50"/>
+  </a>
 </td>
-<td><a href="mailto:arthurmba.am@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+
+<td>
+  <a href="https://wa.me/5531998386531">
+    <img src="https://cdn.simpleicons.org/whatsapp/EB0F0F" width="50" height="50"/>
+  </a>
 </td>
-<td><a href="https://wa.me/5531998386531" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+
+<td>
+  <a href="https://www.instagram.com/m0raes.xz/">
+    <img src="https://cdn.simpleicons.org/instagram/EB0F0F" width="50" height="50"/>
+  </a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+
+<td>
+  <a href="Shttps://www.linkedin.com/in/arthur-moraes-4b00b8306/">
+    <img src="https://img.icons8.com/ios-filled/50/EB0F0F/linkedin.png"
+         width="50"
+         height="50"
+         alt="LinkedIn"/>
+  </a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+
+<td>
+  <a href="https://discordapp.com/users/667845943609131038">
+    <img src="https://cdn.simpleicons.org/discord/EB0F0F" width="50" height="50"/>
+  </a>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+</tr>
+</table>
+</div>
 
 </tr>
 <tr>
@@ -38,7 +57,7 @@
 </div>
 
 -----
-table>
+<table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@a0d04abd-cfe7-4836-bb0e-b44ee9a1aebf">WakaTime</a></td>
 </tr> 
@@ -104,14 +123,5 @@ table>
 <!--
 **arthurmbaam-stack/arthurmbaam-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+n fact: ...
 -->
