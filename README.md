@@ -89,7 +89,7 @@ Sou o Arthur Moraes, estudei no SESI Alvimar Carneiro de Rezende, onde participe
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+<img alt="Marceline" src="./images/marceline.gif" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
