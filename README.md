@@ -77,11 +77,13 @@ Sou o Arthur Moraes, estudei no SESI Alvimar Carneiro de Rezende, onde participe
 <td width="500px" >
 <div align="justify">
 <p> 
-- Sou cruzeirense , o MAIOR de minas.
-- Gosto de jogar futebol e sou goleiro, jogo amador de fut7.
-- Gosto bastante de natação também.
-- Nessa graduação a linguagem que eu mais me interessei foi o java.
-- Gosto muito de jogar BTD6
+- :fox_face: Sou <code>cruzeirense</code>, o <code>MAIOR de minas</code>.<br />
+- :soccer: Gosto de jogar <code>futebol</code> e sou <code>goleiro</code>, jogo amador de <code>fut7</code>.<br />
+- :swimmer: Gosto bastante de <code>natação</code> também.<br />
+- :coffee: Nessa graduação a linguagem que eu mais me interessei foi o <code>Java</code>.<br />
+- :video_game: Gosto muito de jogar <code>BTD6</code>.<br />
+- :headphones: Sou fã do <code>Yunk Vino</code> e do <code>Teto</code>.<br />
+- :abacus: Gosto muito de <code>matemática</code>.<br />
 </p>
 </div>
 </td>
