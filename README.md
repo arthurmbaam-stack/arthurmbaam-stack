@@ -60,7 +60,12 @@
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou o Arthur Moraes, estudei no SESI Alvimar Carneiro de Rezende, onde participei de um projeto de robótica na equipe chamada Harry blocks, também conclui um curso de jovem aprendiz no SENAI Alvimar Carneiro de Rezende de Manutenção de máquinas industriais, além disso estou no 2° semestre do curso de Engenharia de Software na PUC MINAS do Coração Eucarístico, no primeiro semestre ganhei o premio de melhor TI da turma 2026/1, o ESTAGI-ON.
+Sou Arthur Moraes, estudante do 2º período de Engenharia de Software na PUC Minas – campus Coração Eucarístico.
+
+Estudei no SESI Alvimar Carneiro de Rezende, onde participei da equipe de robótica Harry Blocks. Também concluí o curso de Aprendizagem Industrial em Manutenção de Máquinas Industriais no SENAI Alvimar Carneiro de Rezende.
+
+No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio de melhor Trabalho Interdisciplinar da turma de 2026/1.
+
 </div>
 
 -----
