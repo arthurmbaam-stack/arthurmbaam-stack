@@ -127,14 +127,14 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=5r9ikkteo3uc2vuiovjw4fo29&text_color=ca0c0c&accent_color=d90d0d&logo_color=f02400"/></a>
+<a href="https://www.last.fm/pt/user/arthurmbaam-stack" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=5r9ikkteo3uc2vuiovjw4fo29&text_color=ca0c0c&accent_color=d90d0d&logo_color=f02400"/></a>
 </td>
 </tr>
 <tr>
