@@ -127,14 +127,14 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut-vertical&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
 </td>
 </tr>
 <tr>
