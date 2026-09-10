@@ -4,7 +4,7 @@
     alt="Minhas redes sociais"
   />
 
------
+
 
 <div align="center">
 <table>
