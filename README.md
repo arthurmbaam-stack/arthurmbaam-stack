@@ -120,6 +120,7 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 |:---:|:---:|
 | Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML e CSS"/> |
 | Frameworks | <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/> |
+| Ferramentas | ![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode) |
 
 </div>
 
