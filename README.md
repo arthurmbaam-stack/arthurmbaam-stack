@@ -127,11 +127,7 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
-</td>
-<td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=20" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 </td>
 <td>
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut-vertical&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
