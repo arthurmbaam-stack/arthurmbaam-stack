@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EB0F0F&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Minhas+redes+sociais"
+    alt="Minhas redes sociais"
+  />
 
 -----
 
@@ -32,13 +36,13 @@
 </td>
 
 <td>
-  <a href="Shttps://www.linkedin.com/in/arthur-moraes-4b00b8306/">
-    <img src="https://img.icons8.com/ios-filled/50/EB0F0F/linkedin.png"
-         width="50"
-         height="50"
-         alt="LinkedIn"/>
-  </a>
-</td>
+        <a href="https://www.linkedin.com/in/arthur-moraes-4b00b8306/">
+          <img src="https://img.icons8.com/ios-filled/50/EB0F0F/linkedin.png"
+               width="50"
+               height="50"
+               alt="LinkedIn"/>
+        </a>
+      </td>
 
 <td>
   <a href="https://discordapp.com/users/667845943609131038">
@@ -104,8 +108,21 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
+</div>
+
+----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Tecnologias:
+
+<div align="center">
+
+| Categoria | Tecnologias |
+|:---:|:---:|
+| Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML e CSS"/> |
+| Frameworks | <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/> |
 
 </div>
+
 
 -----
 
