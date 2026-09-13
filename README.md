@@ -68,7 +68,7 @@
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou Arthur Moraes, estudante do 2º período de Engenharia de Software na PUC Minas – campus Coração Eucarístico.
+Sou Arthur Moraes, tenho 19 anos , moro em Contagem e sou estudante do 2º período de Engenharia de Software na PUC Minas – campus Coração Eucarístico.
 
 Estudei no SESI Alvimar Carneiro de Rezende, onde participei da equipe de robótica Harry Blocks. Foi nessa experiência que tive meu primeiro contato real com programação e comecei a me interessar pela área de tecnologia.
 
