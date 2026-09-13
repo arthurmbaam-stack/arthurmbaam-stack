@@ -18,8 +18,12 @@
 </td>
 
 <td>
-  <a href="mailto:arthurmba.am@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EB0F0F" width="50" height="50"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthurmba.am@gmail.com"
+     target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EB0F0F"
+         width="50"
+         height="50"
+         alt="Gmail"/>
   </a>
 </td>
 
