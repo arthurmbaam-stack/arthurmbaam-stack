@@ -122,8 +122,8 @@ No primeiro semestre da graduação, meu projeto **Estagi.ON** recebeu o prêmio
 
 | Categoria | Tecnologias |
 |:---:|:---:|
-| Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML e CSS"/> |
-| Frameworks | <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/> |
+| Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Java, Python, HTML, CSS e JavaScript"/> |
+| Frameworks e templates| <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
 | Ferramentas | ![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode) |
 
 </div>
