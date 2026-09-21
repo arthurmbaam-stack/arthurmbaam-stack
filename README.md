@@ -68,9 +68,11 @@
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou Arthur Moraes, tenho 18 anos, moro em Contagem (MG) e atualmente curso o 2º período de Engenharia de Software na PUC Minas, campus Coração Eucarístico. Minha trajetória na tecnologia começou no SESI Alvimar Carneiro de Rezende, onde participei da equipe de robótica Harry Blocks. Foi durante essa experiência que tive meu primeiro contato prático com programação, trabalho em equipe e resolução de problemas, despertando meu interesse pela área de tecnologia.
+Sou Arthur Moraes, tenho 18 anos, moro em Contagem (MG) e atualmente curso o 2º período de Engenharia de Software na PUC Minas, campus Coração Eucarístico. Minha trajetória na tecnologia começou no SESI Alvimar Carneiro de Rezende, onde participei da equipe de robótica Harry Blocks. Foi durante essa experiência que tive meu primeiro contato prático com programação, trabalho em equipe e resolução de problemas, despertando meu interesse pela área de tecnologia. 
 Também concluí o curso de Aprendizagem Industrial em Manutenção de Máquinas Industriais no SENAI Alvimar Carneiro de Rezende. Essa formação contribuiu para o desenvolvimento do meu raciocínio lógico, da minha capacidade de identificar problemas e da busca por soluções de forma organizada.
+
 No primeiro semestre da graduação, participei do desenvolvimento do Estagi.ON, uma plataforma criada para facilitar a conexão entre estudantes e oportunidades de estágio. O projeto recebeu o prêmio de melhor Trabalho Interdisciplinar da turma de Engenharia de Software de 2026/1, representando uma conquista importante no início da minha formação acadêmica e reforçando meu interesse pelo desenvolvimento de soluções tecnológicas que possam ajudar outras pessoas.
+
 Tenho interesse especial pela área de cibersegurança e pretendo direcionar meus estudos e minha carreira para a proteção de sistemas, aplicações, redes e informações. Meu objetivo é fortalecer meus conhecimentos em desenvolvimento de software e segurança da informação, participar de projetos práticos e adquirir experiência para atuar profissionalmente na área.
 
 </div>
